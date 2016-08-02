@@ -1,0 +1,8 @@
+book_filename: "Dictation memo"
+new_session: yes
+chapter_name: ""
+
+rmd_files: [
+  "index.Rmd",
+  "01-Memo.Rmd",
+]
