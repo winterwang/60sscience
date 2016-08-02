@@ -1,7 +1,7 @@
 ---
 title: "我的聽寫記錄"
 author: "王超辰"
-date: "from 2016-07-02"
+date: "from 2016-08-02"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
