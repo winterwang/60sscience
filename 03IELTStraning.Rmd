@@ -89,3 +89,44 @@ Your browser does not support the audio element.
 但是，渔场的鱼并不是完全素食的。大豆没有骨架，它们没有骨头而鱼食中的骨头是鱼类所需的比如说矿物质的主要来源。
 
 和人类十分相似的是，鱼的膳食中也需要欧米伽3不饱和脂肪酸，这在陆地植物中是不含有的。所以，Hardy不得不在植物性的鱼食中再添加一点儿鱼油。**对于我们那些不是捕鱼高手的人来说**，这种水产品可是我们在选择炸鱼食品中最好的选择了吧。
+
+
+
+
+# 挑食的蚊子
+[Some Malaria Mosquitoes May Prefer Cows to Us](https://www.scientificamerican.com/podcast/episode/some-malaria-mosquitoes-may-prefer-cows-to-us/)
+
+<audio src="file/160919MosquitoMeals.mp3" controls="controls">
+Your browser does not support the audio element.
+你的瀏覽器不支持音頻播放。請使用chrome科學上網。
+</audio>
+
+
+
+听写于：2016-10-13 23:22	用时：24:08
+正确率：90%	错词：20个
+
+
+
+<!--我的听写开始-->
+提示：<span class="diff_off">红色</span>：错误单词，<span class="diff_add">绿色</span>：补上正确单词，<span                                                                                                                class="diff_alert">黄色</span>：纠正大小写与标点</div>
+<p class="linetext">As you've probably experienced <span class="diff_off">first</span> <span class="diff_off">hand</span> <span class="diff_add">firsthand</span><span class="diff_alert">,</span> some <span class="diff_off">mosquitos</span> <span class="diff_add">mosquito</span> species have a real taste for warm<span class="diff_alert">,</span> human blood. So much so that if you raise them on <span class="diff_off">in</span> <span class="diff_off">a</span> <span class="diff_add">it</span> <span class="diff_add">the</span> lab<span class="diff_off">except</span> <span class="diff_alert">,</span> <span class="diff_add">they'll</span> <span class="diff_add">accept</span> no substitute. </p><p class="linetext">Fortunately, I don't get <span class="diff_off">a</span> major <span class="diff_off">reaction</span> <span class="diff_add">reactions</span> at all. Brad Main is a mosquito geneticist at U. C. Davis <span class="diff_alert">.</span> <span class="diff_alert" title="And ">and </span><span class="diff_alert" title="part time" >part-time</span>  mosquito meal provider. <span class="diff_add">So</span> <span class="diff_alert" title="It's ">it's </span>not too bad for me. But some people in the lab are itching <span class="diff_alert">.</span> <span class="diff_alert" title="Pretty ">pretty </span>bad when they have hundreds of mosquito <span class="diff_off">bite</span> <span class="diff_add">bites</span> on their arms. </p><p class="linetext">Out in the wild, some species are less picky. Take <span class="diff_alert" title="anopheles ">Anopheles </span>arabiensis, common in East Africa. <span class="diff_off">They</span> <span class="diff_off">will</span> <span class="diff_add">They'll</span> feed on cattle, dogs, goats, pigs, people <span class="diff_alert">,</span> <span class="diff_add">-</span> wherever they can find a warm meal. But what Main and his colleagues wanted to know was whether the <span class="diff_off">blood</span> <span class="diff_off">suckers</span> <span class="diff_add">bloodsuckers</span><span class="diff_add">'</span> choice <span class="diff_off">a</span> <span class="diff_add">of</span> victim might be genetically determined. So they sequenced the genomes of 48 arabiensis <span class="diff_off">mosquitos</span> <span class="diff_add">mosquitoes</span> from Tanzania <span class="diff_alert">,</span> which had fed on either humans or cows. </p><p class="linetext">And they found that bugs with cow blood in their bellies had one partially rearranged chromosome<span class="diff_alert">,</span> compared to those <span class="diff_off">who</span> <span class="diff_add">who'd</span> snacked on human blood <span class="diff_alert">,</span> which could explain the preferences in meal <span class="diff_off">choice</span><span class="diff_add">choices</span>. The study is in the journal PLoS Genetics. </p><p class="linetext">If that genetic switch really does make cows more attractive than we are to <span class="diff_off">mosquitos</span><span class="diff_alert">.</span> <span class="diff_add">mosquitoes</span><span class="diff_alert">,</span> <span class="diff_alert" title="In ">in </span>theory <span class="diff_alert">,</span> we <span class="diff_off">can</span> <span class="diff_add">could</span> genetically engineer them to <span class="diff_off">steal</span> <span class="diff_add">steer</span> clear of people. And their cow victims don't get human malaria. It's a case of knowing your enemy <span class="diff_alert">.</span> <span class="diff_alert" title="And ">and </span>so <span class="diff_alert">,</span> <span class="diff_alert" title="The ">the </span>better we know these <span class="diff_off">mosquitos</span><span class="diff_add">mosquitoes</span>, I think, the more equipped <span class="diff_off">we</span> <span class="diff_off">will</span> <span class="diff_off">gonna</span> <span class="diff_add">we're</span> <span class="diff_add">going</span> <span class="diff_add">to</span> <span class="diff_add">be</span> <span class="diff_add">to</span> be able to control them.</p>
+<!--我的听写结束-->
+
+
+
+* _Words_ worth to be remembered:
+    * fisthand:`adj. 直接的,直接得来的,直接采购的 adv. 直接地`
+    * anopheles:`按蚊,按蚊属`
+    * steer:`v. 行驶；掌舵；引导；控制`
+    * so much so:`以至于`
+
+
+## 譯文
+因为你也许已经亲身经历过了，某些种类的蚊子品尝到了温暖的人类血液。太多次以至于如果你要在实验室里饲养它们，它们什么其它食物都是不吃的。所幸的是，我没有碰到过剧烈的反应。这是加州大学U.C. Davis分校的一位研究蚊子的遗传学家，他还兼职做蚊子的食物供应商。所以对我来讲还不是太差。但是当被几百只蚊子咬过之后，实验室中的某些人可是会感到非常痒的。
+
+在野外，某些种类的胃口还不是很挑剔。 就拿东非地区常见的阿拉伯按蚊来说吧。它们会咬牛，狗，山羊，猪， 和人——只要它们能发现这是一顿温暖的食物。但是，Main和他的同事们想知道是否这些吸血鬼对食物挑剔的结果其实是遗传决定的。所以他们对从坦桑尼亚捉来的已经尝过人或者小牛的血液的48种按蚊。
+
+结果他们就发现，对比已经尝过人学的蚊子，吃过牛血的这种蚊子含有部分重组过后的染色体，这就可以解释为何有些蚊子会有食物偏好。该研究已发表在《公共科学图书馆：遗传学》杂志上。
+
+如果，遗传转换真的使得牛比人类 对这些蚊子更有吸引力的话， 理论上我们能对它们进行遗传修饰以便人类完全引导它们的生活史。而被咬的牛是不会得疟疾的。这只是了解你的对手的一个机会。 所以，我们对这些蚊子了解的约多，我们将会更好的对它们进行掌控。
