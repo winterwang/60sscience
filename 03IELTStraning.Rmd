@@ -170,8 +170,9 @@ Your browser does not support the audio element.
 
 
 
-# 欧盟-加拿大签署自由贸易协定
-[](http://www.bbc.co.uk/programmes/p04dntqj)
+# 歐盟加拿大籤署自由貿易協定
+
+[Canada and EU sign free trade deal](http://www.bbc.co.uk/programmes/p04dntqj)
 
 <audio src="file/canadian-EU.mp3" controls="controls">
 Your browser does not support the audio element.
