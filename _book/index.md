@@ -17,7 +17,7 @@ output:
     keep_tex: yes
 ---
 
-# About this book/關於這本書
+# About this book/關於本書
 
 ![](img/60ss.jpg)
 
