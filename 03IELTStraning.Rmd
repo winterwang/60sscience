@@ -166,3 +166,48 @@ Your browser does not support the audio element.
 
 ## 譯文
 据联合国特使称，叛军控制的阿勒颇市部分地区目前正处于俄罗斯和叙利亚政府军的包围之下，并将在接下来的两个月中变得满目疮痍。战争开始前，阿斯马尔·哈拉比和父亲在市内经营了两家家具店，但是都被炮击摧毁。目前他开了一家孤儿院，收养了50个孩子，他们中很多人的父母都在轰炸中丧生。失去亲人的不光是孩子们，阿斯马尔的父亲和他四姐妹中的三人也都不幸遇难。远在阿勒颇的他向我讲述了2014年学校遭受空袭那天的事，当时他的两个姐妹和他现在的妻子正在那里上学。 那时有一个13岁以上孩子参加的画展，那也是学年结束的日子，所以有一些庆祝活动。当时学校被执政势力袭击，整个校园被毁。我是在早上9点半左右得到的消息。有人打电话告诉我这件事。我立刻赶往学校，找到了其中一个不幸丧生的姐妹。我在废墟和瓦砾中一直寻找我另一个姐妹，找了两三个小时也没找到她的踪迹。后来他们告诉我她在医院，我们在那里找到了她。她已经在袭击中身亡。我们整日地寻找我的妻子，四天过去都没找到，直到后来他们给我们打电话，说她在学校被发现，当时就被送进了医院。
+
+
+
+
+# 欧盟-加拿大签署自由贸易协定
+[](http://www.bbc.co.uk/programmes/p04dntqj)
+
+<audio src="file/canadian-EU.mp3" controls="controls">
+Your browser does not support the audio element.
+你的瀏覽器不支持音頻播放。請使用chrome科學上網。
+</audio>
+
+
+听写于：2016-11-11 16:48	用时：20:05
+正确率：90%	错词：19个
+
+
+<!--我的听写开始-->
+提示：<span class="diff_off">红色</span>：错误单词，<span class="diff_add">绿色</span>：补上正确单词，<span class="diff_alert">黄色</span>：纠正大小写与标点
+<p class="linetext">After <span class="diff_off">7</span> <span class="diff_add">seven</span> years of negotiation and <span class="diff_off">7</span> <span class="diff_add">seven</span> days <span class="diff_off">of</span> <span class="diff_add">at</span> the <span class="diff_off">bulging</span> <span class="diff_add">Belgian</span> region of Wallonia digging <span class="diff_off">that</span> <span class="diff_off">hills</span> <span class="diff_add">their</span> <span class="diff_add">heels</span> in over approving the deal<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="The ">the </span>European Union and Canada have finally signed <span class="diff_off">that</span> <span class="diff_add">their</span> landmark free trade agreement. After <span class="diff_add">a</span> short<span class="diff_alert">,</span> but possibly in the circumstances<span class="diff_alert">,</span> appropriate delay<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_add">the</span> Canadian <span class="diff_alert" title="prime ">Prime </span><span class="diff_alert" title="minister ">Minister </span>Justin Trudeau flew into Brussels <span class="diff_alert">,</span> <span class="diff_add">for</span> the signing ceremony. <span class="diff_off">Those</span> <span class="diff_off">applauds</span> <span class="diff_add">There</span> <span class="diff_add">was</span> <span class="diff_add">applause</span> and jubilation <span class="diff_off">ask</span> <span class="diff_add">as</span> ink was finally put to paper. </p><p class="linetext">Well in his comments<span class="diff_alert">,</span> Mr <span class="diff_alert">.</span> Trudeau concentrated on the economic benefits of the deal. </p><p class="linetext">First and foremost<span class="diff_alert">.</span> <span class="diff_alert">,</span> Canadians and Europeans share the understanding that in order for <span class="diff_add">a</span> real and meaningful economic growth <span class="diff_alert">.</span> <span class="diff_alert" title="We ">we </span>need to create more good, well-paying jobs for our citizens. <span class="diff_off">For</span> <span class="diff_off">aggressive</span> <span class="diff_add">Progressive</span> trade agreements like the one signed today will do just that. </p><p class="linetext"><span class="diff_off">While</span> <span class="diff_add">Well</span> the European Council <span class="diff_alert" title="president ">President </span>Donald Tusk gave <span class="diff_add">it</span> a far broader significance. </p><p class="linetext"><span class="diff_off">Todays</span><span class="diff_off">'</span> <span class="diff_add">Today's</span> decisions demonstrate that the disintegration of the <span class="diff_alert" title="western ">Western </span>community does not need to become a lasting trend<span class="diff_alert">.</span> </p><p class="linetext"><span class="diff_alert">,</span> <span class="diff_alert" title="That ">that </span>we still possess enough strength and determination, at least some of us<span class="diff_alert">,</span> to counter the fatalism of the decay of our political <span class="diff_off">worlds</span><span class="diff_add">world</span>. In this particular moment in the EU's history <span class="diff_alert">,</span> this positive sign means a great deal.</p> <!--我的听写结束-->
+
+
+
+* _Words_ worth to be remembered
+    * digging their heels in `顽抗；拒绝让步；坚持自己的立场 例句：Officials dug their heels in on particular points. 在一些特定问题上,官员们拒不让步. `
+    * jubilation: `n. 欢腾，欢庆，庆祝活动`
+    * Belgian: `adj. 比利时的 n. 比利时人`
+    * _as ink was finally put to paper_ `签字的那一刻`
+    * progressive: `adj. 进步的; 不断前进的; 进行的; n. 改革论者; 进步分子; 例句：The company tries to project an image of being innovative and progressive. 该公司努力以富有创新和进取精神的形象出现。`
+    * disintegration: `n. 瓦解，崩溃；分解`
+    * integration: `n. 整合; 一体化; 结合; （不同肤色、种族、宗教信仰等的人的） 混合; 例句：The aim is to promote closer economic integration. 目的是进一步促进经济一体化。`
+    * fatalism: `n. 宿命论`
+    * broader significance: `更深远、更广泛的意义`
+
+
+## 譯文
+经过长达七年的谈判和比利时的瓦隆地区七天的不签约风波，欧盟和加拿大终于签订了历史性的的自由贸易协定。在短暂（又正合时宜）的延误之后，加拿大总理贾斯廷·特鲁多飞往布鲁塞尔，参加签署仪式。签字的那一刻，全场欢呼，掌声雷动。
+
+特鲁多先生的发言着重强调协定带来的经济效益。
+
+首先，加拿大和欧洲都深知，为了真实而有意义的经济增长，我们需要为市民们创造更好、待遇更优厚的工作机会。积极的贸易协定(指签署的自贸协定)有助于实现这一目标。
+
+而欧洲理事主席多纳尔德·图斯克赋予了该项协议更深远的意义。
+
+今天的决议体现了西方社会的分崩离析并非大势所趋，因为至少我们当中仍有一部分人，有着足够的力量和决心，去反抗政治世界衰败消亡的宿命。在欧盟历史上这个特殊的时刻，这个积极的信号意义非常重大。
