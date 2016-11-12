@@ -225,10 +225,8 @@ Your browser does not support the audio element.
 
 ![](img/Jacqueline_Bisset.jpg)
 
-<audio src="file/nocturnal.mp3" controls="controls">
-Your browser does not support the audio element.
-你的瀏覽器不支持音頻播放。請使用chrome科學上網。
-</audio><br>
+
+<br>
 听写于：2016-11-12 10:47	用时：27:26
 正确率：88%	错词：25个
 
