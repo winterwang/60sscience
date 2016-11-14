@@ -269,3 +269,48 @@ Such patients run an increased probability of hospitalization, with all the atte
 我们先来看看这一类电影中最受欢迎且最有感染力的一部作品，导演Francois Truffaut在1973年的作品《日以作夜》。这部电影最近发行了最新的蓝光版本。电影得名于拍摄时采用的蓝色滤镜。滤镜让白天看起来像是夜晚，比在黑暗中拍摄容易得多。电影情节围绕着一位导演展开，讲述他如何克服剧组里的一系列戏剧性事件，只为完成电影的拍摄。Truffaut本人扮演这一角色。导演的法语电影拍摄于法国，但主角是英国人。她年轻貌美，又有点神经质，从好莱坞来到这里，轰动了一众狗仔。这里有个行内人才懂的笑点：片中的女星Pamela由英国演员Jacqueline Bisset扮演，她本人的出现确实会引起广泛关注。在70年代初，她已饰演过邦女郎，导演Steve McQueen的作品《布利特》中的情人，以及风靡一时的电影《国际机场》中机长Dean Martin的空乘女友。随后，1972年的一天，Jacqueline在巴黎（并不是像歌里唱的那样“为了最后一曲探戈”），一位来自阿联酋皇室的信使找到了她。
 
 在我看来，这真的是一件非常不可思议的事。我那时在巴黎。我以前常去那里，也常去一个地方跳舞。在那个特别的晚上，我住在一间我从未住过的酒店。早上11点左右，一位帅得让人窒息的年轻人急急忙忙跑上楼来，敲着我房间的门，一边说有我的电话。我说，不对，你搞错了，没人知道我住在这里。
+
+
+
+
+# 天價北京房
+
+[Beijing's Property Problem](http://www.bbc.co.uk/programmes/p04dst07)
+
+![](img/beijing.jpg)
+
+<audio src="file/propertybeijing.mp3" controls="controls">
+Your browser does not support the audio element.
+你的瀏覽器不支持音頻播放。請使用chrome科學上網。
+</audio>
+
+
+听写于：2016-11-14 13:50	用时：20:04
+正确率：88%	错词：22个
+
+
+<!--我的听写开始-->
+提示：<span class="diff_off">红色</span>：错误单词，<span class="diff_add">绿色</span>：补上正确单词，<span class="diff_alert">黄色</span>：纠正大小写与标点
+<p class="linetext">The streets of Beijing are busy and bustling. China has undergone an economic miracle over the past quarter-century <span class="diff_alert">.</span> <span class="diff_alert" title="And ">and </span><span class="diff_off">it's</span> <span class="diff_off">in</span> <span class="diff_off">urbanization</span> <span class="diff_add">seen</span> <span class="diff_add">urbanisation</span> on an unprecedented scale. More than half of the Chinese population now live in cities. The capital is home to 21 million people. That unofficial figure is almost double <span class="diff_off">all</span> <span class="diff_add">the</span> number who lived here <span class="diff_off">of</span> <span class="diff_add">at</span> the <span class="diff_off">tenth</span> <span class="diff_add">turn</span> of <span class="diff_off">Millenium</span><span class="diff_add">the</span> <span class="diff_add">millennium</span>. And that has created many problems including the now sky-high cost of living in a high-rise city. It's causing unhappiness among many of the young and therefore <span class="diff_off">concerned</span> <span class="diff_add">concern</span> among <span class="diff_alert" title="policy makers" >policy-makers</span>. A song about it is regularly being played on people's <span class="diff_off">smartphones</span><span class="diff_add">smart</span> <span class="diff_add">phones</span>. And the government has just tightened restrictions to try to get <span class="diff_off">it</span> <span class="diff_off">handled</span> <span class="diff_add">a</span> <span class="diff_add">handle</span> on China's <span class="diff_alert" title="property buying" >property-buying</span>  frenzy. </p><p class="linetext"> </p><p class="linetext">It's pretty lively here around Houhai Lake<span class="diff_alert">,</span> <span class="diff_alert">.</span> <span class="diff_alert" title="this ">This </span>is one of the <span class="diff_off">fee</span> <span class="diff_add">few</span> parts of Beijing <span class="diff_alert">,</span> that still <span class="diff_alert">,</span> resembles the city of just half a century ago. <span class="diff_off">There</span> <span class="diff_off">is</span> <span class="diff_add">There's</span> a collection of traditional red and green <span class="diff_off">wallen</span> <span class="diff_off">tooth</span> <span class="diff_off">to</span> <span class="diff_off">rebuildings</span> <span class="diff_add">one</span><span class="diff_add">-</span> <span class="diff_add">and</span> <span class="diff_add">two-storey</span> <span class="diff_add">buildings</span> in front of the <span class="diff_off">tawest</span> <span class="diff_add">Taoist</span> temple here. Some <span class="diff_off">Beijing-ness</span> <span class="diff_add">Beijingers</span> marvel at the  <span class="diff_alert" title="breath-taking">breathtaking</span> changes <span class="diff_off">the</span> <span class="diff_off">city</span> <span class="diff_off">see</span> <span class="diff_add">their</span> <span class="diff_add">city's</span> <span class="diff_add">seeing</span> in recent years. <span class="diff_off">Paddy</span> <span class="diff_add">Petty</span> fields have been concreted over for housing estates. <span class="diff_alert" title="Low rise" >Low-rise</span>  buildings demolished for skyscrapers. The area around Houhai Lake is lucky to survive.<!--我的听写结束-->
+
+* _Words_ worth to be remembered:
+    * quarter-century: `25年`
+    * bustle /ˈbʌsəl/  `v.奔忙
+例：
+My mother bustled around the kitchen.
+我母亲在厨房里忙得团团转。`
+    * millennium: `n. 千禧年；一千年`
+    * high-rise: `adj. 多层的 n. 多层高楼`
+    * sky-high: `adj. 极高的,昂贵的 adv. 极高,粉碎`
+    * frenzy: `n. 狂热；狂暴；狂怒 v. 使狂怒`
+    * Taoist: `adj. 道教的 n. 道士, 道教信徒`
+    * marvel: `n. 令人惊奇的人或事 v. 对…感到惊讶, 大为赞叹`
+    * petty: `adj. 琐碎的；小气的；小规模的`
+    * concreted: `adj. 混凝土的；实在的，具体的；有形的 n. 混凝土 v. （使）凝固；用混凝土修筑`
+    * low-rise: `adj. 不高的`
+
+
+## 譯文
+北京的大街川流不息、熙熙攘攘。过去25年来，中国创造了经济奇迹，城市化范围之广、进程之快前所未有。有一半多的中国人居住在城市。首都北京的常住人口有2100万，这一非官方数字几乎比世纪之交时翻了一番。这也产生了很多问题，比如在高楼林立的城市里生活的高成本。许多年轻人寻找不到幸福感，因此这也成为了众多政策制定者的担忧。人们的智能手机上经常播放一首有关的歌曲。政府为了控制人们购买房产的疯狂举动，刚刚出台了限制的紧缩政策。
+
+后海这里十分热闹。这里是北京为数不多的仍保留了半个世纪前北京模样的地方。在一座道观前，有一片传统的红绿砖瓦、一两层楼的房屋。一些北京本土人对于北京近些年的巨变仍感叹不已。零星的空地被开发成房地产，拔地而起混凝土建筑。平房被拆除，取而代之的是摩天大楼。后海这片地方得以幸存。
