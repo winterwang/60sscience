@@ -20,8 +20,7 @@ output:
 # About this book/關於本書
 
 ![](img/60ss.jpg)
-
-[![我的听写酷签名卡](http://ting.hujiang.com/sign/2650279)](http://ting.hujiang.com/u2650279/)
+<a href='http://ting.hujiang.com/u2650279/' target='_blank'><img src='http://ting.hujiang.com/sign/2650279' alt='我的听力酷签名卡' /></a>
 
 所有的聽寫內容都來自科學美國人的一個podcast節目，名叫[60 second science](http://www.scientificamerican.com/podcast/60-second-science/).
 我主要利用[滬江外語](http://www.hujiang.com/)學習。曾經用滬江外語獲得了很多日語+英語的學習資料。至今它仍是我最喜愛的外語學習網站。牆裂推薦給各位如果有學習第三門第四門語言的興趣的話，滬江一定是最佳的選擇。
