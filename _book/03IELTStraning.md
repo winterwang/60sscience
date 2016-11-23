@@ -594,3 +594,52 @@ Your browser does not support the audio element.
 
 ## 譯文
 上个月，全球贸易谈判在日内瓦举行。你可能要拿起收音机了，但稍等，不要换台。这很重要。政府之间又在争论，焦点仍然锁定在是否要削减发给农民的补贴。这是老生常谈。尤其在贫困地区，人们对此已经有数年的争议。在贫困国家的农民所得到的补贴远低于那些欧洲、美国和日本等国超级富有的农民所得到的政府的慷慨之助，而一些人认为这样会使全球市场走向失真。但那些有钱的政府并不愿意改变这样一个数十年历史的惯例。而这，某种程度上，就是我们今天每日财经的主题。我们首先来看一个实例。阿根廷是一个主要的农业生产国。新上任的中右翼政府想方设法改变这样一项愈发奢侈的国民政策，一些人认为这在经济和环境方面看都是不可持续的。Grace Livingstone 带来报道。 我来到了位于阿根廷的潘帕斯平原，了解这里的农民如何看待新一届的政府。潘帕斯曾经是牛群和牛仔的天下，但现在这里大部分地区都种植了转基因大豆。我来到了位于罗萨里奥的大豆联盟，它能够代表所有种植或加工大豆的群体。这个建筑外表是智能玻璃的，让你一下子就能感觉到大豆产业带来了丰厚的经济利润。
+
+---
+# 異口同聲
+
+[雙胞胎一起講話有點瘮人.....](http://ting.hujiang.com/bbc/163663271177/)
+
+
+![](img/twins.png)
+
+
+<audio src="file/twins.mp3" controls="controls">
+Your browser does not support the audio element.
+你的瀏覽器不支持音頻播放。請使用chrome科學上網。
+</audio>
+
+
+听写于：2016-11-23 11:53	用时：18:50 正确率：89%	错词：27个
+
+
+提示：<span class="diff_off">红色</span>：错误单词，<span class="diff_add">绿色</span>：补上正确单词，<span class="diff_alert">黄色</span>：纠正大小写与标点
+<p class="linetext">Paula and Bridgette Powers are identical twins from <span class="diff_alert" title="Eastern ">eastern </span>Australia who do the most extraordinary thing. They choose to speak at the same time. The pair <span class="diff_off">has</span> <span class="diff_add">have</span> spent almost every day of their lives together<span class="diff_alert">.</span> <span class="diff_alert" title="they ">They </span>are in their 40s now <span class="diff_alert">.</span> <span class="diff_alert" title="And ">and </span>they share a passion for seabirds. They set up the Twinnies Pelican and Seabird Rescue refuge off the Sunshine <span class="diff_alert" title="coast">Coast </span><span class="diff_alert">.</span> <span class="diff_alert" title="And ">and </span>they went into a studio in Perth to tell me about themselves<span class="diff_alert">.</span> <span class="diff_alert" title="here ">Here </span>they both are. </p><p class="linetext"></p><p class="linetext">Well, <span class="diff_off">I'm</span> <span class="diff_off">sad</span><span class="diff_alert">.</span> <span class="diff_add">mum</span> <span class="diff_add">said</span> <span class="diff_alert" title="It ">it </span>was very easy for us to <span class="diff_off">look</span> <span class="diff_add">be</span> <span class="diff_add">looked</span> after <span class="diff_alert">.</span> <span class="diff_alert" title="And ">and </span>she said that we <span class="diff_off">are</span> <span class="diff_off">easy</span> <span class="diff_add">lived</span> to amuse one another<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="And ">and </span>she said that we had our <span class="diff_add">own</span> twin language <span class="diff_alert">.</span> <span class="diff_alert" title="So ">so </span>no one else could understand what we <span class="diff_off">are</span> <span class="diff_add">were</span> talking about. </p><p class="linetext"></p><p class="linetext">I mean, you <span class="diff_off">talked</span> <span class="diff_add">talk</span> about having a twin language when you were little<span class="diff_alert">,</span> but the way you speak now is amazing<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="In ">in </span>unison like that. </p><p class="linetext"></p><p class="linetext"><span class="diff_off">Yes</span><span class="diff_add">Yeah</span>, it <span class="diff_off">does</span> <span class="diff_off">happen</span> <span class="diff_add">just</span> <span class="diff_add">happens</span> naturally <span class="diff_alert">.</span> <span class="diff_alert" title="And ">and </span>people think that we put it on but we don't. <span class="diff_off">Not</span> <span class="diff_off">right</span><span class="diff_add">No</span> <span class="diff_add">way</span>. Actually <span class="diff_alert">,</span> we both got <span class="diff_off">this</span> <span class="diff_add">the</span> flu at the moment <span class="diff_alert">.</span> <span class="diff_alert" title="And ">and </span>we are on the same <span class="diff_off">antibiotics</span><span class="diff_add">anabolics</span>. </p><p class="linetext"></p><p class="linetext"><span class="diff_add">What</span><span class="diff_alert">?</span> Do you always get <span class="diff_add">the</span> same <span class="diff_off">illness</span> <span class="diff_add">illnesses</span> at the same time? </p><p class="linetext"></p><p class="linetext">Yes, unfortunately. </p><p class="linetext"></p><p class="linetext"><span class="diff_add">What</span><span class="diff_alert">?</span> Right back to when you were little? </p><p class="linetext"></p><p class="linetext">Yes, that's right. I had <span class="diff_add">had</span> my appendix out<span class="diff_alert">,</span> and <span class="diff_add">then</span> Bridgette had her appendix out two weeks later. </p><p class="linetext"></p><p class="linetext">Wow<span class="diff_alert">,</span> <span class="diff_alert">.</span> <span class="diff_alert" title="so ">So </span><span class="diff_off">it</span> <span class="diff_add">that</span> was<span class="diff_alert">,</span> <span class="diff_add">so</span> <span class="diff_add">that's</span> Paula <span class="diff_off">to</span> <span class="diff_off">have</span> <span class="diff_add">who</span> <span class="diff_add">had</span> <span class="diff_add">the</span> appendix out first. </p><p class="linetext"></p><p class="linetext">Yes<span class="diff_alert">,</span> <span class="diff_alert">.</span> <span class="diff_alert" title="that's ">That's </span>right<span class="diff_alert">.</span> <span class="diff_alert" title="and ">And </span>then <span class="diff_off">I</span> <span class="diff_add">I'll</span> have to suffer for two weeks.
+
+
+* _Words_ worth to be remembered:
+    * unison: `adj. 同音的 n. 调和，和谐，一致，齐唱，齐奏; in unison 齐声；一齐；一致地，和谐地。 例句: Michael and the landlady nodded in unison.  迈克尔和房东太太一起点头。`
+    * put it on: `装腔作势；夸大；夸张。 例句： It wasn't as hard as you claimed；you were putting it on． 这并不象你说的那么难，你在夸大其词。`
+    * anabiolic: `adj. 合成代谢的; Anabolic steroids are a synthetic version of the hormone testosterone, and promote the storage of protein and tissue growth. 合成代谢类固醇相当于人造的睾丸激素，它能促进蛋白质的积累和组织的生长。`
+
+
+## 譯文
+葆拉和布丽奇特·鲍尔斯是澳大利亚东部的同卵双胞胎，她们会做一件非常不寻常的事——能同时说话。这对双胞胎几乎天天生活在一起。目前她们40多岁，并且非常喜欢海鸟。她们在阳光海岸建立了推尼斯鹈鹕和海鸟救助站。她们来到了我们位于佩斯的演播室讲述她们的故事。接下来有请这对双胞胎。
+
+妈妈说照管我俩非常轻松，我们总能相互逗趣，她说我们有自己的双胞胎语言，其他人都无法听懂我们在说什么。
+
+你们小时候有自己双胞胎语言，但是你们现在的说话方式很不可思议，完全一致。
+
+是的，这是自然而然的，大家以为我们是装的，但其实不是，根本不可能。事实上我们同时得了感冒，而且代谢相同。
+
+真的假的？你们一直都是同时生病、生同样的病吗？
+
+是的，很不幸。
+
+真的么？你们从小就这样吗？
+
+是啊，没错。我做了阑尾切除手术，然后布丽奇特几周后也摘了她的。
+
+哇，那也就是说是葆拉先摘的阑尾。
+
+是这样。然后两周后我也不得不经历同样的遭遇。
