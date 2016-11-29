@@ -813,3 +813,36 @@ Your browser does not support the audio element.
 “嘿，亲爱的，你得过来看看这个。”说话的是一个带着绿色棒球帽的高个子美国游客，他正在河内市的一处军事历史博物馆招呼他的妻子过去看一件展品。这是一份记录于1975年4月的潦草的手写笔记，记录了越南最高指挥部命令其下所有指挥官以闪电般速度向西贡进攻，对美国所扶持的南越政权发动最后的攻势。“亲爱的，你能想象有一天我们的孩子在中东ISIL的某个博物馆里看到类似这样的么？”他问道。这间破败的布满灰尘的博物馆里陈列了1954年越南战胜法国，以及1975年击退美国人的作战计划模型，那时的越南共产党代表了西方民主社会所谴责的一切。博物馆中还展有描绘越南人抗击中国人的历史性战役的巨幅绘画，数千人在这些战役中被杀害。不过奇怪的是绘画所描述的仅为10世纪到15世纪期间的战役，而没有时间较近的一场发生于1979年的中越边境战争，越南同样也赢得了此场战役的胜利
 
 ---
+
+# 敘利亞難民危機
+
+[Crisis in Syria](http://ting.hujiang.com/bbc/163721381109/)
+
+
+<audio src="file/syria.mp3" controls="controls">
+Your browser does not support the audio element.
+你的瀏覽器不支持音頻播放。請使用chrome科學上網。
+</audio>
+
+听写于：2016-11-29 11:36	用时：20:43
+正确率：92%	错词：15个
+
+
+提示：<span class="diff_off">红色</span>：错误单词，<span class="diff_add">绿色</span>：补上正确单词，<span class="diff_alert">黄色</span>：纠正大小写与标点
+<p class="linetext">In the past six months alone, the number of people living under siege in Syria has doubled to almost a million. In <span class="diff_off">the</span> <span class="diff_add">a</span> briefing to the <span class="diff_alert" title="security ">Security </span><span class="diff_alert" title="council ">Council</span><span class="diff_alert">,</span> the UN head of aid <span class="diff_alert">,</span> Stephen O'Brien also warned that conditions in eastern Aleppo <span class="diff_off">have</span> <span class="diff_add">had</span> gone from terrible to terrifying. He said that most of the violence in Syria was being carried out by government forces. </p><p class="linetext"></p><p class="linetext"> </p><p class="linetext"></p><p class="linetext"><span class="diff_alert">"</span> There is nothing subtle <span class="diff_add">or</span> complicated about the practice of <span class="diff_off">the</span> <span class="diff_off">besiegements</span><span class="diff_alert">.</span> <span class="diff_add">besiegement</span><span class="diff_alert">,</span> <span class="diff_alert" title="Civilians ">civilians </span><span class="diff_off">have</span> <span class="diff_off">been</span> <span class="diff_add">are</span> <span class="diff_add">being</span> isolated, starved, <span class="diff_off">bombed</span> <span class="diff_add">bound</span> and denied <span class="diff_alert">,</span> <span class="diff_off">been</span> <span class="diff_off">attentioned</span> <span class="diff_add">medical</span> <span class="diff_add">attention</span> and humanitarian assistance<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="In ">in </span>order to force them to submit or flee. It is a deliberate <span class="diff_off">attack</span> <span class="diff_add">tactic</span> of cruelty to compound the <span class="diff_off">people</span> <span class="diff_add">people's</span> suffering for political, military, and in some cases, <span class="diff_off">it's</span> <span class="diff_off">an</span> economic <span class="diff_off">game</span> <span class="diff_add">gain</span><span class="diff_alert">,</span> to destroy and defeat a civilian population who cannot fight back. <span class="diff_alert">"</span></p><p class="linetext"></p><p class="linetext"> </p><p class="linetext"></p><p class="linetext">He repeated <span class="diff_off">the</span> <span class="diff_add">a</span> call for strong action from the <span class="diff_alert" title="security ">Security </span><span class="diff_alert" title="council ">Council </span>to back its resolutions<span class="diff_alert">,</span> calling for an end to attacks on civilians, to improve humanitarian aid access <span class="diff_alert">,</span> and to <span class="diff_off">leave</span> <span class="diff_add">lift</span> sieges. The <span class="diff_alert" title="council ">Council </span>has been divided over how to end <span class="diff_off">for</span> <span class="diff_add">the</span> nearly six-year civil war. Syria's ally<span class="diff_alert">,</span> Russia<span class="diff_alert">,</span> backed by China is protecting <span class="diff_alert" title="president ">President </span>Assad from <span class="diff_alert" title="security ">Security </span><span class="diff_alert" title="council ">Council </span>action by <span class="diff_off">veto</span> <span class="diff_off">in</span> <span class="diff_add">vetoing</span> several resolutions.
+
+
+* _Words_ worth to be remembered:
+    * besiegement: `n. 围攻;围绕;推进`
+    * subtle: `adj. 微妙的；精细的；敏感的；狡猾的；稀薄的`
+    * submit: `vi. 提交；服从 vt. 使服从；主张；呈递`
+    * deliberate: `adj. 故意的；深思熟虑的；从容的 v. 仔细考虑；商讨`
+    * tactic: `n. 策略，战略 adj. 按顺序的，依次排列的`
+    * compound: `n. [化学] 化合物；混合物；复合词 adj. 复合的；混合的 v. 合成；混合；恶化，加重；和解，妥协`
+
+## 譯文
+仅仅在过去半年里，被困在叙利亚的难民人数达到将近一百万，已经相比之前翻了一番。在一份呈交给安理会的简报中，联合国人道主义援助事务负责人史蒂芬·奥布莱恩发出警告：阿勒颇东部的难民处境已经从“糟糕”变成了“惨不忍睹”。他声称，在叙利亚发生的大部分暴力事件都是由叙利亚政府军挑起的。
+
+“难民们被围困是个纯粹的事实，没有什么复杂和费解的地方。他们与世隔绝、忍饥挨饿、出行受限、得不到任何可以帮助他们撑过眼前难关或者是医疗措施、或者可以让他们逃离这里的人道主义援助。甚至有人出于政治、军事、在有些情况下、甚至是经济上的利益而去欺压践踏这群毫无还手之力的难民、加重他们的痛苦，这实在是人为的暴行。“
+
+他再三呼吁安理会采取强硬行动来支持他的决议，终止这场内战，疏通人道主义援助渠道、强制禁止围困。安理会的成员在如何结束这场将近长达六年的内战问题上意见产生了分歧。叙利亚政府军的盟友、俄罗斯——其背后还有中国的支持，为了保护叙利亚总统阿萨德免受联合国部分措施的制裁，而对几项决议投出了反对票。
