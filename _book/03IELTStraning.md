@@ -846,3 +846,42 @@ Your browser does not support the audio element.
 “难民们被围困是个纯粹的事实，没有什么复杂和费解的地方。他们与世隔绝、忍饥挨饿、出行受限、得不到任何可以帮助他们撑过眼前难关或者是医疗措施、或者可以让他们逃离这里的人道主义援助。甚至有人出于政治、军事、在有些情况下、甚至是经济上的利益而去欺压践踏这群毫无还手之力的难民、加重他们的痛苦，这实在是人为的暴行。“
 
 他再三呼吁安理会采取强硬行动来支持他的决议，终止这场内战，疏通人道主义援助渠道、强制禁止围困。安理会的成员在如何结束这场将近长达六年的内战问题上意见产生了分歧。叙利亚政府军的盟友、俄罗斯——其背后还有中国的支持，为了保护叙利亚总统阿萨德免受联合国部分措施的制裁，而对几项决议投出了反对票。
+
+---
+
+# 救贖
+
+[Trevor McDonald on Redemption](http://www.bbc.co.uk/programmes/b07x2zcw)
+
+![](img/redemption.jpg)
+
+
+<audio src="file/redemption.mp3" controls="controls">
+Your browser does not support the audio element.
+你的瀏覽器不支持音頻播放。請使用chrome科學上網。
+</audio>
+
+
+
+提示：<span class="diff_off">红色</span>：错误单词，<span class="diff_add">绿色</span>：补上正确单词，<span class="diff_alert">黄色</span>：纠正大小写与标点
+<p class="linetext">There are many views about the concept of redemption. It's generally defined as the action of saving or being saved from sin, error <span class="diff_alert">,</span> or evil. We take this to mean that someone has committed an act which is <span class="diff_off">sinfull</span> <span class="diff_add">sinful</span> or evil. My guest today did nothing of the <span class="diff_off">thought</span><span class="diff_add">sort</span>. In fact, she was subjected to an <span class="diff_off">active</span> <span class="diff_add">act</span> <span class="diff_add">of</span> terrible violence and brutality, and it happened when she was only <span class="diff_off">thirteen</span><span class="diff_add">13</span>. Madeleine Black was raped, yet today she can talk of having been redeemed through the <span class="diff_off">active</span> <span class="diff_add">act</span> of forgiveness. </p><p class="linetext">Madeleine, how does one do that? How does one seek or <span class="diff_off">gained</span> <span class="diff_add">gain</span> that redemption? </p><p class="linetext">It wasn't something <span class="diff_off">that</span> <span class="diff_add">I</span> ever really set out to do. <span class="diff_off">It</span> <span class="diff_add">There</span> was a combination <span class="diff_add">of</span> about three things. I thought that <span class="diff_off">I</span> had worked it <span class="diff_alert">,</span> really <span class="diff_off">were</span> <span class="diff_off">when</span> <span class="diff_add">well</span> <span class="diff_add">and</span> I was healed<span class="diff_alert">.</span> <span class="diff_off">But</span>, <span class="diff_add">but</span> there was always something lurking underneath <span class="diff_alert">.</span> <span class="diff_alert" title="And ">and </span>when my oldest daughter became nearly <span class="diff_off">thirteen</span> <span class="diff_add">13</span><span class="diff_alert">,</span> and it was <span class="diff_off">while</span> <span class="diff_add">whilst</span> I was having therapy for <span class="diff_off">over</span> three years <span class="diff_alert">.</span> <span class="diff_alert" title="That ">that </span>my therapist suggested to me that maybe they weren't born rapists<span class="diff_alert">.</span> <span class="diff_off">And</span>, <span class="diff_add">and</span> you know, I just<span class="diff_alert">.</span> <span class="diff_alert">.</span><span class="diff_alert">.</span> </p><p class="linetext"><span class="diff_alert">,</span> <span class="diff_add">I</span> <span class="diff_add">just</span><span class="diff_alert">,</span> <span class="diff_alert" title="There ">there </span>was no way I <span class="diff_off">want</span> <span class="diff_add">wanted</span> to forgive <span class="diff_add">them</span>, I just <span class="diff_off">want</span> <span class="diff_add">wanted</span> somebody to kidnap them, <span class="diff_off">type</span> <span class="diff_add">tie</span> them up, rape and torture them for hours <span class="diff_add">on</span> <span class="diff_add">end</span> like they had done to me<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="But ">but </span>he planted a seed in my mind <span class="diff_alert">.</span> <span class="diff_alert" title="And ">and </span>that seed started to grow <span class="diff_alert">.</span> <span class="diff_alert" title="And ">and </span>I<span class="diff_alert">,</span> <span class="diff_add">I</span> just really wanted to understand what did it take for them to take that path<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="Because ">because </span>they weren't much older than me<span class="diff_alert">,</span> <span class="diff_alert">.</span> <span class="diff_alert" title="they ">They </span>were maybe 17,18. I wanted to know<span class="diff_alert">,</span> how could they be so violent <span class="diff_off">toward</span> <span class="diff_add">towards</span> another human being, what had they seen or heard or experienced themselves that could <span class="diff_off">have</span> <span class="diff_off">made</span> <span class="diff_add">make</span> them behave in that way<span class="diff_alert">.</span> <span class="diff_alert">?</span>
+
+
+* _Words_ worth to be remembered:
+    * redemption: `n. （尤指基督教的）拯救，赎罪，救赎例句： They visited the Shrine of Our Lady to pray for redemption. 他们参观了圣母玛利亚的神龛，祈祷以期救赎。`
+    * be subjected to sth: `有；遭受，承受 例句： Cars are subject to a high domestic tax. 买汽车要交很高的国内税。`
+    * brutality /bruːˈtæl.ə.ti/: `n. 残酷性，残忍行径 例句： the brutalities of war 战争的残酷`
+    * sort: `n. 种类；方式；品质 vt. 将…分类；将…排序；挑选出某物 vi. 分类；协调；交往`
+    * redeem: `vt. 赎回；挽回；兑换；履行；补偿；恢复`
+    * whilst: `conj. 同时；时时，有时；当…的时候`
+    * set out: `（怀着特定目的）开始，着手 例句： She set out with the aim of becoming the youngest ever winner of the championship. 她努力的目标就是成为史上最年轻的冠军。`
+    * lurk /lɜːk/: ` v. 潜伏，潜藏 例句： It seems that old prejudices are still lurking beneath the surface. 表象背后似乎依然潜藏着旧有的偏见。`
+
+## 譯文
+“救赎（redemption）”一词的概念有多种解读。它通常指挽救过失、罪恶，或从过失、罪恶中得到解放的过程。我们用这一词表明某人曾犯下罪行。而今天我们的嘉宾未曾犯过罪行。事实上，她在13岁时遭到严重的暴力虐待。玛德琳·布莱克曾被强奸。而她如今认为，自己通过“原谅”得到了救赎。
+
+玛德琳，一个人要怎么寻求或者得到这样的救赎？
+
+“寻求救赎”并非我本来的打算。这是三样东西的结合。我曾以为我已经从过去的伤痛中走了出来，那些创伤已经被治愈了。但总有东西潜藏着，让我无法真正释怀。在我长女快到13岁时，我已经接受了3年的心理治疗。我的治疗师暗示我那些人可能并非生来就是强奸犯。但我一点也不想去原谅他们。我只希望他们也被绑架、被绑起来、被强奸、被折磨数小时，就像他们曾对我做的那样。然而，心理医师的话却像颗种子被植入我的脑海，并开始生长。我开始想要了解他们为什么会走上“强奸”这条路。他们并没有比我大多少，大概17、18岁。我想知道，他们怎么会对别人那么残酷、暴力，他们曾看到、听到或经历过什么事情，导致他们会做出这样的行为。
+
+---
