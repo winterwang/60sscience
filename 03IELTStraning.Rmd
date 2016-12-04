@@ -997,3 +997,41 @@ Your browser does not support the audio element.
 我们开始吧，先让我们抑制一下呜咽，虽然这周值得在影院一哭。为什么呢？因为一部新电影《大洋之间的灯光》。这部电影改编自M·L·斯坦德曼的小说，讲述的是一对夫妻的故事，由迈克尔·法斯宾德和艾丽西亚·维坎德饰演。妻子屡遭流产，而他们这时候却发现了一个婴儿，但幸福并未就此开始。故事就发生在那片被未知海洋包围的遥远澳大利亚岛屿。最近的一项牛津大学研究表明，观看让人情感上痛苦的荧幕电影可以激活内啡肽的产生——科学认证明，痛快哭一场能让你感觉更好。对很多人来说，观看《大洋之间的灯光》将是一个非常棒的夜晚。一些观众在电影最后都哭的无法自已。剧本的改编和拍摄指导都出自国导演德里克·斯安弗朗斯，他先前的两部作品《蓝色情人节》和《松林外》都让我感动落泪。德里克也承认他之所以决定改编《大洋之间的灯光》一部分原因也是因为它让他热泪盈眶。 “我的意思是我爱这本小说。我还记得我是在纽约的城市列车上看哭的。你知道，看到书的结尾时我的脸上淌满了泪水，你知道的，最初我很尴尬，然后我心想，任何人如果正在读这本小说，他们也将有同样的反应。我只是把它当作我的北极星。”
 
 ---
+
+# 命運不是天注定
+
+[HOW A TEAM OF 'UNCLEAN CLEANERS' FOUGHT CASTE WITH CRICKET](http://www.ozy.com/true-story/how-a-team-of-unclean-cleaners-fought-caste-with-cricket/65120)
+
+
+
+![](img/Bombay.jpg)
+
+<audio src="file/Bombay.mp3" controls="controls">
+Your browser does not support the audio element.
+你的瀏覽器不支持音頻播放。請使用chrome科學上網。
+</audio>
+
+听写于：2016-12-4 17:29 	用时：23:16
+正确率：92% 	错词：21个
+
+提示：<span class="diff_off">红色</span>：错误单词，<span class="diff_add">绿色</span>：补上正确单词，<span class="diff_alert">黄色</span>：纠正大小写与标点
+<p class="linetext">Today's story is from India. There, even though discriminating against people on grounds of their caste has been illegal for years<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="People ">people </span>can still find themselves severely disadvantaged. Vimal Kumar is from one of the lowest <span class="diff_off">class</span> <span class="diff_add">castes</span> <span class="diff_add">-</span> the Chuhras. They are sometimes called <span class="diff_alert">"</span> the untouchables<span class="diff_alert">"</span> . And for generations the family have made their living by cleaning out toilet pits. But today Vimal is studying for a PhD. He's managed to rise above the caste system and wants to help the rest of his community to do the same. On the line from <span class="diff_off">Bombay</span><span class="diff_add">Mumbai</span>, <span class="diff_off">Vimal</span> <span class="diff_off">has</span> <span class="diff_add">Vimal's</span> been telling me his story<span class="diff_alert">,</span> starting with his time at school. </p><p class="linetext"></p><p class="linetext">It's still very fresh in my mind<span class="diff_alert">,</span> <span class="diff_off">at</span> <span class="diff_alert">.</span> <span class="diff_add">In</span> the same school my <span class="diff_off">mum</span> <span class="diff_add">mother</span> was sweeper. She used to clean the dry toilets<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="The ">the </span>toilets without water<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="And ">and </span>my identity in the school was <span class="diff_alert">"</span> the son of the sweeper<span class="diff_alert">"</span> . <span class="diff_off">They</span> <span class="diff_off">just</span> <span class="diff_off">call</span> <span class="diff_add">The</span> <span class="diff_add">teachers</span> <span class="diff_add">called</span> me not by my name<span class="diff_alert">.</span> <span class="diff_alert" title="they ">They </span><span class="diff_off">call</span> <span class="diff_off">call</span> <span class="diff_add">all</span> <span class="diff_add">called</span> me, they called like<span class="diff_add">:</span> " <span class="diff_alert" title="the ">The </span>son of sweeper, come here. " And I felt very <span class="diff_off">shamed</span> <span class="diff_off">for</span> <span class="diff_add">shameful</span> in the school. </p><p class="linetext"></p><p class="linetext">And were you angry about it? Did you get angry? </p><p class="linetext"></p><p class="linetext">Yeah<span class="diff_alert">.</span> <span class="diff_off">Because</span>, <span class="diff_add">because</span> during our class <span class="diff_off">they</span> <span class="diff_off">always</span> <span class="diff_add">the</span> <span class="diff_add">whole</span> <span class="diff_add">school</span> called me<span class="diff_add">:</span> " <span class="diff_alert" title="your ">Your </span>mother is cleaning our toilet<span class="diff_alert">,</span> <span class="diff_alert">.</span> <span class="diff_alert" title="you ">You </span>are bad people<span class="diff_alert">.</span> <span class="diff_alert" title="you ">You </span>are dirty people. " They tried to beat us<span class="diff_alert">,</span> <span class="diff_alert">.</span> <span class="diff_alert" title="they ">They </span>don't want to touch us <span class="diff_alert">.</span> <span class="diff_alert" title="And ">and </span>they don't allow us into their families, into their houses. And I <span class="diff_off">did</span> <span class="diff_off">not</span> <span class="diff_add">didn't</span> like to go school due to these things. I always <span class="diff_off">tried</span> <span class="diff_add">try</span> to go, <span class="diff_off">stayed</span> <span class="diff_add">stay</span> at home. So <span class="diff_off">everyday</span> <span class="diff_add">every</span> <span class="diff_add">day</span> my family pushed hard to me to <span class="diff_off">entering</span> <span class="diff_add">enter</span> <span class="diff_add">in</span> <span class="diff_add">the</span> school<span class="diff_alert">.</span> <span class="diff_alert" title="and ">And </span>my mother said<span class="diff_add">:</span> <span class="diff_alert">"</span> <span class="diff_alert" title="don't ">Don't </span>worry about that, just avoid these things <span class="diff_alert">,</span> and just go to school and concentrate on your study. <span class="diff_alert">"</span>
+
+
+* _Words_ worth to be remembered:
+    * Mumbai: `n. 孟买(位于印度西部,原名为Bombay)`
+    * on grounds of: ` 以…为理由，以…为借口，根据。 例句： We base this call on grounds of social justice and equity. 我们基于社会正义和公平发出这一呼吁。`
+    * castes: `n. 种姓（制度），社会等级（制度）`
+    * pit: `n. 深洞；煤矿；麻子；修理加油站；交易场所 v. 使有麻子；使有凹陷`
+    * rise above: ` 克服；升到…之上；超越…；沾沾自喜。 例句： It tells the story of an aspiring young man's attempt to rise above the squalor of the street.  它讲述了一位有志青年试图摆脱贫苦肮脏的街头生活。`
+
+
+## 譯文
+
+今天的故事发生在印度。多年来，即使因为种姓而歧视人是违法的，那里的人仍然处于极为不利的地位。维姆·库马尔就是来自最底层种姓中的一员——楚哈拉斯家族。他们时常被称为“贱民”，家族里几代人都是靠打扫厕为生。但如今维姆正在攻读博士学位。他设法摆脱了种姓制度，并帮助处于这一阶层中其他人改变命运。远在孟买的维姆在线向我讲述了他的故事，一切始于他的学生时代。
+
+那些记忆在我脑海里依旧鲜明。我的母亲也在同一所学校做清洁工。她过去经常打扫干厕，也就是没有水的厕所，而我在学校的身份就是清洁工的儿子。老师们不叫我的名字。他们都这样这么跟我说话，“清洁工的儿子，到这来”。在学校我觉得非常丢脸。
+
+那为这个你会生气吗？你生过气么？
+
+是的，全班乃至整个学校都对我说“你妈是给我们扫厕所的。你们是烂人，脏人”。他们还打我们。他们不愿意碰我们，不让我们进他们家门。因此我不喜欢去上学，通常待在家里。每天家人都极力劝我去上学。我的母亲说：“别在意那些，抛开它们，你就去上学，把精力集中在学习上”。
