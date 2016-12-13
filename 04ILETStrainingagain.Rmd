@@ -112,3 +112,52 @@ Ben说他曾经想要杀戮。但也有一些人是被逼无奈才这么做的�
 “我认为人类自内心深处就对杀戮有排斥。S.L.A. Marshall发现战斗步兵队伍中，只有15%到20%的人能够朝敌人开枪。而80%的人在面临开枪那一刻实际上是会产生抵触情绪而不愿意这么做的。我认为这个发现很特别。葛底斯堡的战役也很特别。当时有27000把来复枪和步枪散落在战场上，其中90%的枪都上了膛。实际上这是因为没有人开枪。”
 
 ---
+
+# Troublemaker
+
+[Ukraine's Tiny 'Troublemaker'](http://www.bbc.co.uk/programmes/p01s60xs)
+
+![](img/troublemaker.png)
+
+<audio src="file/troublemaker.mp3" controls="controls">
+Your browser does not support the audio element.
+你的瀏覽器不支持音頻播放。請使用chrome科學上網。
+</audio>
+
+
+听写于：2016-12-13 12:04	用时：23:33
+正确率：92%	错词：16个
+
+提示：<span class="diff_off">红色</span>：错误单词，<span class="diff_add">绿色</span>：补上正确单词，<span class="diff_alert">黄色</span>：纠正大小写与标点
+<p class="linetext">We've been hearing from controversial campaigners who've been making waves across Europe. Today <span class="diff_alert">,</span> we go to Ukraine and to Kiev <span class="diff_alert">,</span> where clashes between government forces and opposition groups have been <span class="diff_off">the</span> <span class="diff_add">at</span> <span class="diff_add">their</span> most <span class="diff_off">violence</span> <span class="diff_add">violent</span> since the unrest began in November last year. 34-year-old Tetiana Chornovol is an anti-government activist who divides opinion <span class="diff_off">across</span> <span class="diff_add">in</span> the country. As an investigative reporter for opposition websites, she's built a reputation for unusual <span class="diff_off">stands</span><span class="diff_add">stunts</span>. But in December last year, she became the story <span class="diff_off">herselfm</span> <span class="diff_add">herself</span> when she was <span class="diff_off">brutely</span> <span class="diff_add">brutally</span> attacked after her car was forced off the road. Last month, Outlook's Lucy Ash <span class="diff_off">when</span> <span class="diff_add">went</span> to meet Tetiana and her family in Kiev. </p><p class="linetext">Wustim has got a scooter with lights on it<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="Going ">going </span>round and round. <span class="diff_off">He</span> <span class="diff_off">is</span> <span class="diff_add">He's</span> like Tetiana. </p><p class="linetext">Oh <span class="diff_alert">,</span> yes, their personalities are very much alike. </p><p class="linetext">I've just arrived in the home of Tetiana Chornovol<span class="diff_alert">,</span> <span class="diff_alert">.</span> <span class="diff_alert" title="in ">In </span>the front room of their house on the outskirts of the capital Kiev<span class="diff_alert">.</span> <span class="diff_alert">,</span> Tetiana's very determined <span class="diff_off">3-year-old</span> <span class="diff_add">three-year-old</span> son Wustim has rolled up the <span class="diff_off">carpets</span> <span class="diff_add">carpet</span> so he can whiz <span class="diff_off">above</span> <span class="diff_add">about</span> on <span class="diff_off">with</span> his scooter<span class="diff_alert">,</span> watched by his grandma<span class="diff_alert">,</span> Natalia. </p><p class="linetext">I said to myself, <span class="diff_add">'</span><span class="diff_alert" title="Tanya">Tanya, </span><span class="diff_alert">,</span> hold the <span class="diff_off">will</span> <span class="diff_add">wheel</span> straight<span class="diff_alert">,</span> <span class="diff_alert">.</span> <span class="diff_alert" title="stay ">Stay </span>on the road. <span class="diff_add">'</span> But this car that was <span class="diff_off">reaming</span> <span class="diff_add">ramming</span> me probably cost $40,000. And I <span class="diff_off">realized</span><span class="diff_alert">,</span> <span class="diff_add">realised</span> that if such an expensive car is <span class="diff_off">delivered</span> <span class="diff_off">its</span> <span class="diff_off">mission</span> <span class="diff_add">deliberately</span> <span class="diff_add">smashing</span> into me<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="It ">it </span>means that those guys are being paid a lot to kill me.
+
+
+* _Words_ worth to be remembered:
+    * unrest: `n. 动乱，骚乱，不安的状态`
+    * stunt: `n. 特技表演；噱头 v. 阻碍，遏制；表演特技; 例句： He used to stunt-drive in acrobatic performances. 他过去常在杂技表演中表演驱车特技。`
+    * brutally: `adv. 残忍地，野蛮地，狠狠地；直截了当地；难以忍受地`
+    * ramming:`舂实,捣打,打夯,抛砂,夯,压实`
+    * deliberatly:`adv. 故意地；从容不迫地`
+    * smashing:`adj. 极好的；轰动的；粉碎性的 v. smash的现在分词；粉碎`
+    * divide opinion: `指令（一群）人的意见产生分歧。 例句： Airport expansion plans divide opinion. 众人对机场扩建方案看法不一`
+    * scooter[ˈsku:tə(r)]: ` n. <英>小型摩托车；（儿童）滑板车。 例句： On the scooter we laughed about the performance.  在摩托车上我们为这场表演哈哈大笑。`
+    * whiz[wɪz]: ` vi. 发出飕飕声；<口>高速移动。 例句： They heard bullets continue to whiz over their heads. 他们听到子弹不断在他们头顶上嗖嗖飞过。`
+    * 【背景资料】
+        1. [Ukraine（乌克兰）](http://baike.baidu.com/link?url=gcz1iRQ83_Hbf8ULWWLoNvXhuTOtvO3IJ4hCx5XZRihxunHNzP-uqKrB9lnIjhm3fzXN1eGLxNpp4G7PCS1TnlGEpalkPopoAygK8OgvttLKJgzX1vxgD8OBgVUEHKS)
+          乌克兰位于欧洲东部，是欧洲除俄罗斯外领土面积最大的国家。原苏联15个加盟共和国之一，是仅次于俄罗斯和 哈萨克斯坦的第三大加盟共和国。1991年苏联解体后，乌克兰独立。乌克兰地理位置重要，是欧洲联盟与独联体特别是与俄罗斯地缘政治的交叉点。
+        2.  [Kiev（基辅）](http://baike.baidu.com/link?url=3e9EmjsojGCIm2N5XPfOBb9TeAGO_haspCnwGWhQLdn-YDeitY6mPXEJYVavJxNoYLwNe5MS4rijuHLyj2kxO_) 基辅为乌克兰首都，经济、文化中心。位于第聂伯河中游两岸，及其最大支流普里皮亚季河与杰斯纳河汇合处附近。面积 782平方千米，人口约260万，全市分为10个行政区。
+        3. [Tetiana Chornovol](http://en.wikipedia.org/wiki/Tetiana_Chornovol)
+          Tetiana Mykolayivna Chornovol is a Ukrainian journalist and civic activist, one of the leaders in the ongoing Euromaidan protest campaign. She is famous for investigative reports about corruption in Ukraine, as well as for her adventurous direct actions. On 25 December 2013, Chornovol was the victim of a much published and condemned severe beating.
+
+## 译文
+我们听说过那些在欧洲引起轰动而具有争议的活动家们。今天我们将去乌克兰的基辅，那里自去年11月动乱开始，政府势力和反对派组织间的冲突已经达到暴力顶峰。34岁的塔提亚娜·车娜沃尔是一位反政府激进分子，乌克兰人对她看法不一。作为一位反对派网站的调查记者，她以工作中行事出奇冒险而闻名。但是去年12月，塔提亚娜自己成为了冒险故事的主角，她的车被逼驶离了公路，之后遭到残忍的攻击。上个月，Outlook节目的露西·阿什去基辅见到了她和她的家人。
+
+乌斯提姆得到一个带灯的小滑板车，他一圈一圈的（踩着它）走。他很像塔提亚娜。
+
+噢，是的，他们性格非常相像。
+
+我刚到达塔提亚娜在首都基辅的郊外的家。在她家客厅，车娜3岁的儿子乌斯提姆坚决地卷起了地毯，好在房间里踩着滑板车溜来溜去，奶奶纳塔丽娅紧紧盯着他看。
+
+我告诉自己：“汤娅，笔直开。别离开公路。”但撞过来的这辆车大概价值4万美元。于是我意识到，如果这么贵的一辆车故意撞我，肯定有人花了大价钱买我的命。
+
+----
