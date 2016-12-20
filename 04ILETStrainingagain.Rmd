@@ -388,3 +388,33 @@ Your browser does not support the audio element.
 当唐纳德·特朗普真正宣誓就职美国下任总统时，他如何避免利益冲突带来的损害？本周原定关于该主题的一次记者招待会被取消了。特朗普本人只在他的推特上发文称其在白宫期间不会达成新的交易事项。这也呼应了其前不久的誓言，即他将退出对其遍布全球的商业帝国的实时管控。但仍有很多人认为这一举措不可能持久。那么以前那些成为总统的人是如何处理他们的经济事项的呢？我们请来了奥巴马政府的白宫首席道德律师，诺尔曼·艾森。 自从1978年美国政府道德法案得以通过，美国总统可以充分利用我们所说的合乎标准的保密信托或类似手段。这意味着他们将剥离这些商业利益，并置于信托人处理，转换为现金，再背对背地进行二次投资。所以美国总统们不会知道他们投资于何处，就是为了避免冲突。只要总统们或其他人知悉这些投资，总统的判断就很有可能被左右，或者其他人将利用这些投资游说总统意图影响他。
 
 ---
+
+# 人民幣可靠麼?
+
+![](img/renminbi.jpg)
+
+<audio src="file/renminbi.mp3" controls="controls">
+Your browser does not support the audio element.
+你的瀏覽器不支持音頻播放。請使用chrome科學上網。
+</audio>
+
+
+听写于：2016-12-20 11:55	用时：19:49
+正确率：94%	错词：8个
+
+提示：<span class="diff_off">红色</span>：错误单词，<span class="diff_add">绿色</span>：补上正确单词，<span class="diff_alert">黄色</span>：纠正大小写与标点
+<p class="linetext">Well <span class="diff_alert">,</span> it's been another tough week on global stock <span class="diff_off">market</span><span class="diff_alert">.</span> <span class="diff_off">It's</span> <span class="diff_add">markets</span> <span class="diff_add">-</span> big falls again on Thursday<span class="diff_alert">,</span> concerns <span class="diff_off">of</span> <span class="diff_off">a</span> <span class="diff_add">over</span> central bank policy in the US<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="But ">but </span>also <span class="diff_alert">,</span> as ever <span class="diff_alert">,</span> the state of China's economy. One question <span class="diff_off">is</span> being asked: <span class="diff_alert">"</span> <span class="diff_alert" title="How ">how </span>stable is China's currency nowadays? <span class="diff_alert">"</span> For months, the challenges China's been facing <span class="diff_off">had</span> <span class="diff_add">have</span> been a talking point, growth down, stock <span class="diff_add">markets</span> sliding. But if there were to be a real crisis in the country, some reckon the first signs of it might be a run on the country's currency. <span class="diff_off">When</span> <span class="diff_off">are</span> <span class="diff_off">they</span> <span class="diff_add">We're</span> <span class="diff_add">not</span> <span class="diff_add">there</span> yet<span class="diff_alert">?</span> <span class="diff_alert">,</span> <span class="diff_alert" title="But ">but </span>it does seem as though <span class="diff_alert">,</span> wealthier Chinese citizens are increasingly hedging their bets and shipping billions of dollars worth of yuan or renminbi abroad<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="Switching ">switching </span>it into safer foreign investments<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="This ">this </span>despite partial government restrictions on the exchange of foreign currency. The BBC's Danny Vincent stepped out of his office in Beijing to visit one area where the black market trade supposedly takes place. </p><p class="linetext"></p><p class="linetext">I've come to the back streets surrounding Beijing Railway Station<span class="diff_alert">.</span> <span class="diff_alert">,</span> <span class="diff_alert" title="And ">and </span>I've tried to buy some fake invoices from one of the many street vendors waiting here for customers. Across the road from the station, <span class="diff_off">there</span> <span class="diff_off">are</span> <span class="diff_add">there're</span> crowds of <span class="diff_off">travelers</span> <span class="diff_add">travellers</span> returning to the capital after Chinese New Year. And <span class="diff_off">there</span> <span class="diff_off">is</span> <span class="diff_add">there's</span> a small army of <span class="diff_off">sales</span> <span class="diff_off">people</span> <span class="diff_add">salespeople</span> stopping them to offer their goods and services.
+
+
+* _Words_ worth to be remembered:
+    * talking point: `话题；论据；讨论的焦点 例： It's bound to be the main talking point during discussions between the prime minister and the president. 这必定会成为首相和总统会谈的主要议题。`
+    * hedge one's bets:` 为防止损失两面下注，两面讨好 例句： 1861-1865: U.S. Civil War -- British hedge bets on both Union and Confederacy. 1861~1865 美国内战期间，英国佬对北部联邦和南部邦联两头下重注。`
+    * supposedly: `adv. 据信地，可能地`
+    * partial: `a.偏袒的 例：  I might be accused of being partial. 我可能会被人指责是偏袒的。`
+
+
+## 譯文
+
+从全球股票市场来看，这又是艰难的一周——周四的又一次大跌，对美国中央银行政策的担忧，当然还有中国的经济状况。有一个问题一直被提及，中国现行的货币有多稳定？几个月来，中国所面临的各种挑战已经成为了谈论的焦点，下降的增长率，下滑的股市。但假设中国真的发生一场危机，一些人认为最初的迹象可能是国家货币的挤兑。目前还没发展到那种地步，但似乎富有些的中国公民逐渐将资本在多方下注，将价值数十亿美元的人民币运往国外，并换成更保险的外国投资产品，即便中国政府在人民币外汇交易上有各种偏袒和限制。BBC记者丹尼·文森特走出北京的办公室，到人们比较熟知的黑市交易地点进行走访。 我来到了位于北京站周围的小路上，想要从其中一个商贩手中买一些假发票，这些商贩在街上招呼着顾客。在北京站对面的路上能看到大波的旅客在新年后返回首都，还有一小撮商贩会打断他们的步伐，兜售一些商品和服务。
+
+---
